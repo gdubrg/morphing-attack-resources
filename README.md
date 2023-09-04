@@ -19,7 +19,7 @@
   - [Original paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9093905)
   - [Resource](https://github.com/gdubrg/MAD-Tools)
   - Code: Python, PyTorch, MXNet
-  - Training datasets:
+  - Training datasets: PMDB
   - Notes: unofficial implementation, tested on FVC (MORPHDB_D-1.0 EER = 0.0%)
 
 ### S-MAD models
