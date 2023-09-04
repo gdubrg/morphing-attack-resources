@@ -1,6 +1,13 @@
 # Resources for Morphing Attack
 ## Code, data, and model collections publicly available.
 
+> [!NOTE]
+> Cite the original paper if you use the implementation on this page!
+
+> [!IMPORTANT]
+> It is forbidden to use the following S-MAD and D-MAD models on FVC and NIST benchmarks without the consent of the authors.
+
+
 ### D-MAD models
 - *A double siamese framework for differential morphing attack detection* (Borghi et al., Sensors 2021)
   - [Original paper](https://www.mdpi.com/1424-8220/21/10/3466)
@@ -50,6 +57,3 @@
 - Private
   - PMDB
   - MorphDB (only for evaluation on the FVC platform)  
-
-> [!IMPORTANT]
-> It is forbidden to use the following S-MAD and D-MAD models on FVC and NIST benchmarks without the consent of the authors.
