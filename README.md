@@ -10,7 +10,7 @@
   - Notes: official implementation, tested on FVC (SOTAMD_D-1.0 EER = 23.37%)
  
 - *Combining identity features and artifact analysis for Differential Morphing Attack Detection* (Di Domenico et al., ICIAP 2023)
-  - [Original paper]
+  - [Original paper](https://github.com/gdubrg/morphing-attack-resources/blob/main/ICIAP_2023.pdf)
   - [Resource](https://github.com/ndido98/iciap-2023)
   - Training datasets: PMDB, MorphDB, Idiap-morph
   - Notes: official implementation, tested on FVC (on going)
