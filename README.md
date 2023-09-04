@@ -1,5 +1,6 @@
 # Resources for Morphing Attack
-## Code, data and model collection publicly available
+## Code, data, and model collections publicly available.
+### It is forbidden to use the following S-MAD and D-MAD models on FVC and NIST benchmarks without the consent of the authors.
 
 ### D-MAD models
 - *A double siamese framework for differential morphing attack detection* (Borghi et al., Sensors 2021)
@@ -29,12 +30,25 @@
   - Training datasets: PMDB, MorphDB, Idiap-morph, Chimo
   - Notes: tested on FVC-onGoing (SOTAMD_D-1.0 EER = 10.33%) 
 
-### Frameworks and Scripts
+### Frameworks, Scripts and other resources
 - *Revelio* framework
   - Revelio is a framework to simplify D-MAD and S-MAD model development
   - [Resource](https://github.com/ndido98/revelio)
   - [Documentation](https://ndido98.github.io/revelio/)
+- FVC-onGoing platform
+  - [Link](https://biolab.csr.unibo.it/fvcongoing/UI/Form/Home.aspx)
+  - S-MAD and D-MAD evaluations on sequestered datasets. 
+- FRVT MORPH
+  - [Link](https://pages.nist.gov/frvt/html/frvt_morph.html)
+  - S-MAD and D-MAD evaluations on sequestered datasets. 
 
 ### Datasets
-
+- Public
+  - Idiap-morph
+    - [Idiap-FRLL](https://www.idiap.ch/en/dataset/frll-morphs)
+    - [Idiap-FRGC](https://www.idiap.ch/en/dataset/frgc-morphs)
+    - [Idiap-FERET](https://www.idiap.ch/en/dataset/feret-morphs)
+- Private
+  - PMDB
+  - MorphDB (only for evaluation on the FVC platform)  
 
