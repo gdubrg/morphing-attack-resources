@@ -51,5 +51,5 @@
   - PMDB
   - MorphDB (only for evaluation on the FVC platform)  
 
-[!IMPORTANT]
-It is forbidden to use the following S-MAD and D-MAD models on FVC and NIST benchmarks without the consent of the authors.
+> [!IMPORTANT]
+> It is forbidden to use the following S-MAD and D-MAD models on FVC and NIST benchmarks without the consent of the authors.
