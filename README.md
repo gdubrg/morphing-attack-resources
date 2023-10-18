@@ -20,7 +20,7 @@
   - [Original paper](https://github.com/gdubrg/morphing-attack-resources/blob/main/ICIAP_2023.pdf)
   - [Resource](https://github.com/ndido98/iciap-2023)
   - Training datasets: PMDB, MorphDB, Idiap-morph
-  - Notes: official implementation, tested on FVC (on going)
+  - Notes: official implementation, tested on FVC (SOTAMD_D-1.0 EER = 10.23%)
     
 - *Deep Face Representations for Differential Morphing Attack Detection* (Scherag et al., TIFS 2020)
   - [Original paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9093905)
