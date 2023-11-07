@@ -21,6 +21,12 @@
   - [Resource](https://github.com/ndido98/iciap-2023)
   - Training datasets: PMDB, MorphDB, Idiap-morph
   - Notes: official implementation, tested on FVC (SOTAMD_D-1.0 EER = 10.23%)
+ 
+- *Dealing with Subject Similarity in Differential Morphing Attack Detection* (Di Domenico et al., under submission)
+  - The paper is currently under submission
+  - [Resource](https://github.com/ndido98/acida)
+  - Training datasets: PMDB, MorphDB, Idiap-morph
+  - Notes: official implementation, tested on FVC (SOTAMD_D-1.0 EER = 7.84%)
     
 - *Deep Face Representations for Differential Morphing Attack Detection* (Scherag et al., TIFS 2020)
   - [Original paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9093905)
