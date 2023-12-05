@@ -57,6 +57,9 @@
 ### Datasets
 - Public
   - [FEI Morph Dataset](https://miatbiolab.csr.unibo.it/fei-morph-dataset/)
+    A dataset for the S/D-MAD task.
+  - [ChiMo Dataset](https://miatbiolab.csr.unibo.it/chimo-dataset/)
+    A dataset for the S-MAD task.
   - Idiap-morph
     - [Idiap-FRLL](https://www.idiap.ch/en/dataset/frll-morphs)
     - [Idiap-FRGC](https://www.idiap.ch/en/dataset/frgc-morphs)
